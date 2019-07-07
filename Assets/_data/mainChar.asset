@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55d282a4421f46949a113ff26c336023, type: 3}
+  m_Name: mainChar
+  m_EditorClassIdentifier: 
+  parMakeup: {fileID: 21300000, guid: 3eece22b6ee68d64e8f1d52a7cf1887b, type: 3}
+  ochiMakeup: {fileID: 21300000, guid: 159fd5fd098160447bbaa1dfa23eb3c7, type: 3}
+  rujMakeup: {fileID: 21300000, guid: 4a0c2e4f1a722014d97623ab6f507886, type: 3}
+  spranceneMakeup: {fileID: 21300000, guid: 5162138eadec4764a8f06500ff4f9c07, type: 3}
+  geneMakeup: {fileID: 21300000, guid: 264059d5718b13c4496276062fc00b1c, type: 3}
+  tusMakeup: {fileID: 0}
+  glossMakeup: {fileID: 0}
+  fardMakeup: {fileID: 0}
+  blushMakeup: {fileID: 0}
+  parDressup: {fileID: 21300000, guid: fcd8094045037244393e8cdeda73fd96, type: 3}
+  ochiDressup: {fileID: 21300000, guid: db9281c852a224e4287bd74d00cde51e, type: 3}
+  rujDressup: {fileID: 21300000, guid: 254b4da55621c9e4eb7d700372f9366e, type: 3}
+  spranceneDressup: {fileID: 21300000, guid: 04ddced9771ca004dbafa852e259b556, type: 3}
+  geneDressup: {fileID: 21300000, guid: 1fe3a9a1d0de5a64a8b81cff6a9f42a4, type: 3}
+  tusDressup: {fileID: 0}
+  glossDressup: {fileID: 0}
+  fardDressup: {fileID: 0}
+  blushDressup: {fileID: 0}
+  parDefault: {fileID: 21300000, guid: 3eece22b6ee68d64e8f1d52a7cf1887b, type: 3}
+  geneDefault: {fileID: 21300000, guid: 264059d5718b13c4496276062fc00b1c, type: 3}
+  spranceneDefault: {fileID: 21300000, guid: 5162138eadec4764a8f06500ff4f9c07, type: 3}
+  ochiDefault: {fileID: 21300000, guid: 159fd5fd098160447bbaa1dfa23eb3c7, type: 3}
+  parDefaultDressup: {fileID: 21300000, guid: fcd8094045037244393e8cdeda73fd96, type: 3}
+  geneDefaultDressup: {fileID: 21300000, guid: 1fe3a9a1d0de5a64a8b81cff6a9f42a4, type: 3}
+  spranceneDefaultDressup: {fileID: 21300000, guid: 04ddced9771ca004dbafa852e259b556,
+    type: 3}
+  ochiDefaultDressup: {fileID: 21300000, guid: db9281c852a224e4287bd74d00cde51e, type: 3}
+  rujDefaultDressup: {fileID: 21300000, guid: 254b4da55621c9e4eb7d700372f9366e, type: 3}
+  rujDefault: {fileID: 21300000, guid: 4a0c2e4f1a722014d97623ab6f507886, type: 3}
+  rochie: {fileID: 0}
+  top: {fileID: 0}
+  skirt: {fileID: 0}
+  pantofi: {fileID: 0}
+  bag: {fileID: 0}
+  tiarra: {fileID: 0}
+  pants: {fileID: 0}
+  gloves: {fileID: 0}
+  jewlery: {fileID: 0}
+  ear: {fileID: 0}
+  neck: {fileID: 0}

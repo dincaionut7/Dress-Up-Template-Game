@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55d282a4421f46949a113ff26c336023, type: 3}
+  m_Name: bffData_2
+  m_EditorClassIdentifier: 
+  parMakeup: {fileID: 0}
+  ochiMakeup: {fileID: 0}
+  rujMakeup: {fileID: 0}
+  spranceneMakeup: {fileID: 0}
+  geneMakeup: {fileID: 0}
+  tusMakeup: {fileID: 0}
+  glossMakeup: {fileID: 0}
+  fardMakeup: {fileID: 0}
+  blushMakeup: {fileID: 0}
+  parDressup: {fileID: 0}
+  ochiDressup: {fileID: 0}
+  rujDressup: {fileID: 0}
+  spranceneDressup: {fileID: 0}
+  geneDressup: {fileID: 0}
+  tusDressup: {fileID: 0}
+  glossDressup: {fileID: 0}
+  fardDressup: {fileID: 0}
+  blushDressup: {fileID: 0}
+  parDefault: {fileID: 0}
+  geneDefault: {fileID: 0}
+  spranceneDefault: {fileID: 0}
+  ochiDefault: {fileID: 0}
+  parDefaultDressup: {fileID: 21300000, guid: 874c1ba489e98a14f81b9bcb63055d80, type: 3}
+  geneDefaultDressup: {fileID: 0}
+  spranceneDefaultDressup: {fileID: 0}
+  ochiDefaultDressup: {fileID: 0}
+  rujDefaultDressup: {fileID: 0}
+  rochie: {fileID: 0}
+  top: {fileID: 0}
+  skirt: {fileID: 0}
+  pantofi: {fileID: 0}
+  bag: {fileID: 0}
+  tiarra: {fileID: 0}
+  pants: {fileID: 0}
+  gloves: {fileID: 0}
+  jewlery: {fileID: 0}
+  ear: {fileID: 0}
+  neck: {fileID: 0}
